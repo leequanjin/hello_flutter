@@ -45,7 +45,6 @@ class MainApp extends StatelessWidget {
                   child: Text('Register')
               ),
             ],
-
           ),
         ),
       ),
