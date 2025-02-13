@@ -36,14 +36,6 @@ class MainApp extends StatelessWidget {
                   border: OutlineInputBorder(),
                 ),
               ),
-              ElevatedButton(
-                  onPressed: (){},
-                  child: Text('Login')
-              ),
-              ElevatedButton(
-                  onPressed: (){},
-                  child: Text('Register')
-              ),
             ],
           ),
         ),
