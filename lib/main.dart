@@ -24,7 +24,7 @@ class MainApp extends StatelessWidget {
               TextField(
                 keyboardType: TextInputType.name,
                 decoration: const InputDecoration(
-                  labelText: 'Username',
+                  labelText: 'User ID',
                   border: OutlineInputBorder(),
                 ),
               ),
